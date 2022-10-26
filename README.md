@@ -1,4 +1,6 @@
 ### Hi there,I'm Dorcas4L 👋
+Seshie Dorcas is my name. A teenage girl majoring in physics at the University of Ghana.  My goal is to become  one of the young female front-end web engineers.I am here because I adore excellent design and creativity. To build welcoming, user-friendly websites for people while also learning more about web development, I want to merge technology with design. It's all about coding indeed.
+
 
 <!--
 **Dorcas4L/Dorcas4L** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
